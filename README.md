@@ -1,2 +1,1 @@
-# code-editor
-Created with CodeSandbox
+### my code editor
